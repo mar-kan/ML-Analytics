@@ -151,10 +151,6 @@ In this set-up, the model learn well the curve as in the original set-ups. The m
 
 ### Test 8: Cross-Validation
 
-### Test 8: Cross-Validation Detailed Matrix
-
-### Test 8: Full Cross-Validation Matrix
-
 #### 8.1 n = 10
 
 | K (Folds) | p=1 loss | p=3 loss | p=15 loss |
